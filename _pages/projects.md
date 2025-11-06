@@ -17,7 +17,7 @@ redirect_from:
   Presentations: *50th Camphor Economics Beijing Seminar*  
 - Beneath the greenhouse dome: Extreme heat and health costs in china. (With Jin Hu, Chen You, Heer Wang, Chenxu Ni, Kaiya Wu)
 - Extreme rainfall, forecast bias, and medical expenses. (With Minmin Huang, Jin Hu, Chenxu Ni, Chen You)
-- Miles to illness: The effects of job-housing distance and commuting-related pollution on health. (with Xin Lin, Chenxu Ni and Zhuoran Zhang)  
+- Miles to illness: The effects of job-housing distance and commuting-related pollution on health. (with [Xin Lin](https://xinlin-me.github.io/), Chenxu Ni and Zhuoran Zhang)  
 
 📝 Working in Process
 ------
