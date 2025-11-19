@@ -10,13 +10,13 @@ redirect_from:
 <p style="text-align: justify;">
   Hello! I am an M.A. student in Social Policy at Renmin University of China. I obtain my bachelor‘s degree in University of Chinese Academy of Social Sciences.  
   <br>
-  My research belongs to Environmental Economics, Urban Economics, and Development Economics.  
+  My research belongs to Environmental Economics, Urban Economics, Development Economics.  
+  <br><br>
+  **Environmental Economics**: climate adaptation infrastructure, Sustainable urbanization. 
   <br>
-  Environmental Economics: climate adaptation infrastructure, Sustainable urbanization. 
+  **Urban Economics**：Subway, commuting, housing prices.
   <br>
-  Urban Economics：Subway, commuting, housing prices.
-  <br>
-  Development economics: human capital, health, education, economic history.  
+  **Development economics**: human capital, health, education, economic history.  
   <br><br>
   Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling.
   <br><br>
