@@ -14,7 +14,7 @@ redirect_from:
   <br><br>
   **Environmental Economics**: climate adaptation infrastructure, Sustainable urbanization. 
   <br>
-  **Urban Economics**：Subway, commuting, housing prices.
+  **Urban Economics**: Subway, commuting, housing prices.
   <br>
   **Development economics**: human capital, health, education, economic history.  
   <br><br>
