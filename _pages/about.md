@@ -15,6 +15,8 @@ redirect_from:
   Environmental Economics:  climate adaptation infrastructure, Sustainable urbanization.  
   <br>
   Development economics:  human capital, health, education.  
+  <br>
+  Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling.
   <br><br>
   Learn more from my <a href="https://Mucha-moment.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
 </p>  
