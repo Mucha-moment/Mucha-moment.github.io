@@ -18,11 +18,12 @@ I have been working as a research assistant for Professor [Ruixue Jia](https://g
 ------
 - 2024-2025, National Scholarship for Graduate Students (20,000 RMB, Top 0.2%)
 - 2024-2025, Academic First Class Scholarship (12,000 RMB)  
-- 2024-2024, Outstanding graduates from Beijing (12,000 RMB)
+- 2024-2024, Outstanding graduates from Beijing
 - 2023-2024, Scholarship to Visit Top Universities in the World (100,000 RMB), UCASS
 - 2020-2024, Comprehensive Scholarship (×2), Academic Distinction Scholarship, UCASS
 - 2020-2024, "Humanities and Social Sciences Young Talents Program" (4,000 RMB×2+1,000 RMB[excellent]), UCASS
 - 2022-2023, College Students' Innovative Entrepreneurial Training Plan Program (20,000 RMB)
+- 2022-2023, Special Award in Academic Works Competition for Chinese College Students (Awarded to recognize students’ academic potential)
 - 2021-2022, List of National Scholarship Representatives of People’s Daily (Top 0.17%, selected from National Scholarship awardees [Top 0.2%])
 - 2021-2022, National Scholarship for Undergraduates (8,000 RMB, Top 0.2%)  
 - 2021-2021, First prize in the Chinese Mathematics Competitions for College Students(18th, 18/17353(Top 0.1%)) 
