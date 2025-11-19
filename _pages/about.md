@@ -12,7 +12,7 @@ redirect_from:
   <br>
   My research belongs to Environmental Economics and Development Economics.  
   <br>
-  Environmental Economics:  climate adaptation infrastructure, Sustainable urbanization.  
+      Environmental Economics:  climate adaptation infrastructure, Sustainable urbanization.  
   <br>
   Development economics:  human capital, health, education.  
   <br>
