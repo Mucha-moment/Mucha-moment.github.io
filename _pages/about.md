@@ -12,11 +12,11 @@ redirect_from:
   <br>
   My research belongs to Environmental Economics, Urban Economics, Development Economics.  
   <br><br>
-  <strong>Environmental Economics<\strong>: climate adaptation infrastructure, Sustainable urbanization. 
+  <strong>Environmental Economics</strong>: climate adaptation infrastructure, Sustainable urbanization. 
   <br>
-  <strong>Urban Economics<\strong>: Subway, commuting, housing prices.
+  <strong>Urban Economics</strong>strong>: Subway, commuting, housing prices.
   <br>
-  <strong>Development economics<\strong>: human capital, health, education, economic history.  
+  <strong>Development economics</strong>strong>: human capital, health, education, economic history.  
   <br><br>
   Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling.
   <br><br>
