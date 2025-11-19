@@ -16,7 +16,7 @@ redirect_from:
   <br>
   <strong>Urban Economics</strong>: Subway, commuting, housing prices.
   <br>
-  <strong>Development economics</strong>: human capital, health, education, economic history.  
+  <strong>Development economics</strong>: health, human capital, education, economic history.  
   <br><br>
   Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling.
   <br><br>
