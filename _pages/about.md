@@ -48,7 +48,7 @@ redirect_from:
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>The Role of Weather Forecasts in Climate Adaptation and Reducing Medical Costs in China</b></font></p>
+    <p class="pub-p"><font size=3><b>Information Intervention and Climate Adaptation: The Role of Weather Forecasts in Reducing Medical Costs in China</b></font></p>
     <p class="pub-p"><font size=3>Improving forecast accuracy significantly reduces morbidity and medical spending, with mispredictions—especially under extreme weather—driving sizable increases and highlighting information as a cost-effective adaptation.</font></p>
   </div>
   </td></tr>
