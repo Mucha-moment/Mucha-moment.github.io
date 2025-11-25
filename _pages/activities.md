@@ -17,7 +17,7 @@ I have been working as a research assistant for Professor [Ruixue Jia](https://g
 🥇 Honors and Awards  
 ------
 - 2024-2025, National Scholarship for Graduate Students (20,000 RMB, Top 0.2%)
-- 2024-2025, Academic First Class Scholarship (12,000 RMB)  
+- 2024-2025, Academic First Class Scholarship (14,000 RMB)  
 - 2024-2024, Outstanding graduates from Beijing
 - 2023-2024, Scholarship to Visit Top Universities in the World (100,000 RMB), UCASS
 - 2020-2024, Comprehensive Scholarship (×2), Academic Distinction Scholarship, UCASS
