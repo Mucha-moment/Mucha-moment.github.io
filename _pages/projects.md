@@ -11,7 +11,7 @@ redirect_from:
 
 🚀 Working Papers
 ------
-- The Role of Weather Forecasts in Climate Adaptation and Reducing Medical Costs in China (With Qingfeng Liu, Chenxu Ni)  
+- Information Intervention and Climate Adaptation: The Role of Weather Forecasts in Reducing Medical Costs in China (With Qingfeng Liu, Chenxu Ni)  
   Presentations: *The 1039th Workshop on Ecology, Environment, and Climate Change Economics at Peking University School of Economics*  
 - Heating For Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure (With Qingfeng Liu, Chenxu Ni, [Tao Tao](http://sph.ruc.edu.cn/jszy/tt/e9f566caddee408da3d0f93bf8578525.htm))
   Presentations: *50th Camphor Economics Beijing Seminar*  
