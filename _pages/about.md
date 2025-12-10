@@ -12,7 +12,7 @@ redirect_from:
   <br>
   My research belongs to Environmental Economics, Urban Economics, Development Economics.  
   <br><br>
-  <strong>Environmental Economics</strong>: Climate adaptation, Pollution, Health. 
+  <strong>Environmental Economics</strong>: Climate adaptation, Pollution, Sustainable development, Health. 
   <br>
   <strong>Urban Economics</strong>: Sustainable urbanization, Subway, Commuting, Housing prices.
   <br>
