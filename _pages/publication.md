@@ -29,7 +29,7 @@ redirect_from:
   
 📜 Published in Chinese
 ------
-- Fu, Y., Ni, C., **Cong, Zhenglong\***, and Wang, Z.. [Health Insurance Payment Reform, Moral Hazard, and Medical Cost Containment.]() *Management World* (2026). (Chinese: 付亚鹏,倪晨旭,丛正龙*,王震.医保支付改革、道德风险与医疗控费.《管理世界》)
+- Fu, Y., Ni, C., **Cong, Zhenglong\***, and Wang, Z.. [Health Insurance Payment Reform, Moral Hazard, and Medical Cost Containment.]() *Journal of Management World* 42, 03 (2026), 141-155. (Chinese: 付亚鹏,倪晨旭,丛正龙*,王震.医保支付改革、道德风险与医疗控费.《管理世界》)
 - Liu, Q., Zheng, S., and **Cong, Zhenglong**. [The impact of international collaboration on research output of chinese university:evidence from visiting scholar program of economics.](https://www.nsd.pku.edu.cn/docs/20250227141916720676.pdf) *China Economic Quarterly* 25, 01 (2025), 137–154. (Chinese: 刘庆丰,郑世林,丛正龙.国际合作交流对中国高校教师科研产出的影响——来自经济学科海外访学的证据.《经济学(季刊)》)
 - Ni, C., Shao, B., **Cong, Zhenglong\***, and Wang, Z. [Impact of age-friendly community renovations on the elderly’s health.](http://ie.cass.cn/kygz/kycg/lw/202502/W020250207537695208068.pdf) *Chinese Journal of Population Science* 38, 05 (2024), 113–128. (Chinese:倪晨旭,邵宝魁,丛正龙*,王震.社区适老化改造对老年人健康的影响.《中国人口科学》)
 
