@@ -13,7 +13,7 @@ redirect_from:
 ------
 - Information Intervention and Climate Adaptation: The Role of Weather Forecasts in Reducing Medical Costs in China (With Qingfeng Liu, Chenxu Ni)  
   Presentations: *The 1039th Workshop on Ecology, Environment, and Climate Change Economics at Peking University School of Economics*  
-- Heating For Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure (With Qingfeng Liu, Chenxu Ni, [Tao Tao](http://sph.ruc.edu.cn/jszy/tt/e9f566caddee408da3d0f93bf8578525.htm))
+- Heating For Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure (With Qingfeng Liu, Chenxu Ni, [Tao Tao](http://sph.ruc.edu.cn/jszy/tt/e9f566caddee408da3d0f93bf8578525.htm), [Siqi Zheng](https://www.siqizheng.com/))
   Presentations: *50th Camphor Economics Beijing Seminar*  
 - Beneath the greenhouse dome: Extreme heat and health costs in china. (With Jin Hu, Chen You, Heer Wang, Chenxu Ni, Kaiya Wu)
 - Extreme rainfall, forecast bias, and medical expenses. (With Minmin Huang, Jin Hu, Chenxu Ni, Chen You)
