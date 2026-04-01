@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I am currently an M.A. student in Social Policy at Renmin University of China. I received my bachelor‘s degree in University of Chinese Academy of Social Sciences, and I will begin my Ph.D. studies in MIT’s Department of Urban Studies and Planning (DUSP) in Fall 2026.  
+  Hello! I am currently an M.A. student in Social Policy at Renmin University of China. I received my bachelor‘s degree from University of Chinese Academy of Social Sciences, and I will begin my Ph.D. studies at MIT’s Department of Urban Studies and Planning (DUSP) in Fall 2026.  
   <br><br>
-  <b>Committee</b>: [Siqi Zheng](https://www.siqizheng.com/) (Chair) [Ruixue Jia](https://gps.ucsd.edu/faculty-directory/ruixue-jia.html)
+  <b>Committee</b>: <a href="https://www.siqizheng.com/">Siqi Zheng</a> (Chair)
   <br><br>
   My research belongs to Environmental Economics and Development Economics.  
   <br>
