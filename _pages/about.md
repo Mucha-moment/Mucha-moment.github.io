@@ -9,11 +9,11 @@ redirect_from:
 
 <p style="text-align: justify;">
   Hello! I am currently an M.A. student in Social Policy at Renmin University of China. I received my bachelor‘s degree in University of Chinese Academy of Social Sciences, and I will begin my Ph.D. studies in MIT’s Department of Urban Studies and Planning (DUSP) in Fall 2026.  
-  <br>
-  Committee: Siqi Zheng (Chair)
+  <br><br>
+  <b>Committee</b>: [Siqi Zheng](https://www.siqizheng.com/) (Chair)
   <br><br>
   My research belongs to Environmental Economics and Development Economics.  
-  <br><br>
+  <br>
   <b>Environmental Economics</b>:  Climate adaptation, Pollution, Sustainable development, Health.  
   <br>
   <b>Urban Economics</b>: Sustainable urbanization, Subway, Commuting, Housing prices.
