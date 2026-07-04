@@ -27,8 +27,6 @@ redirect_from:
   <a href="mailto:zlcong@mit.edu">zlcong@mit.edu</a>
   <br>
   <a href="mailto:zlcong426@gmail.com">zlcong426@gmail.com</a>
-  <br>
-  <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
 </p>  
 
 🌟 Recent Research Highlights
