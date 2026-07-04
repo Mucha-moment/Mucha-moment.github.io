@@ -29,4 +29,5 @@ redirect_from:
 - Wind Power Generation
 - Wetland
 - Quantitative History
+- Hospital Congestion
 
