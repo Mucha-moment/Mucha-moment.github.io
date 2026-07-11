@@ -27,7 +27,11 @@ redirect_from:
 - Medical Dispute (with [Yapeng Fu](https://fyapeng.com/) and Chenxu Ni)
 - Haunted House (with [Peikang Zhang](https://peikangzhang.weebly.com/))
 - Wind Power Generation
+- Typhoon
 - Wetland
+- Barefoot Doctor
+- Chinese lunar calendar almanac
 - Quantitative History
 - Hospital Congestion
+
 
