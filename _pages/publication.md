@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📜 Publication
+📜 Publications
 ------
 - [Lin, X.](http://xinlin-me.com/), [Hui, E. C.](https://scholars.cityu.edu.hk/en/persons/chimhui/), **Cong, Zhenglong**, and [Shen, J.](https://www.polyu.edu.hk/bre/people/academic-staff/dr-jeff-jianfu-shen/) [Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship.](https://www.sciencedirect.com/science/article/abs/pii/S0304387825001609) *Journal of Development Economics* 178, 1 (2026), 103609
   <details>
