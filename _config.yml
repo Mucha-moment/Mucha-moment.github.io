@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "&emsp;Ph.D. Student"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "MIT"
   uri              : #"https://www.manchester.ac.uk/"
   email            : "zlcong@mit.edu"
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/zlcong"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
