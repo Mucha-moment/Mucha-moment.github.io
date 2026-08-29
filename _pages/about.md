@@ -20,13 +20,11 @@ redirect_from:
   <br>
   <b>Development economics</b>: Health, Education, Economic history, Human capital.  
   <br><br>
-  Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling. In addition, I explore machine learning and artificial intelligence for decision support.
+  Methodologically, I primarily use large-scale and unique datasets for causal inference, complemented by randomized controlled trials and structural modeling. I am also interested in applying machine learning and artificial intelligence to economic research.
   <br><br>
   Learn more from my <a href="https://Mucha-moment.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: 
   <br>
   <a href="mailto:zlcong@mit.edu">zlcong@mit.edu</a>
-  <br>
-  <a href="mailto:zlcong426@gmail.com">zlcong426@gmail.com</a>
 </p>  
 
 🌟 Recent Research Highlights
@@ -69,10 +67,3 @@ redirect_from:
 </div>
 <br>
 
-<p>
-<!--<center>-->
-  <div id="clustrmaps-widget" style="width:2%">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HfdSVVyw1U-OquJhEe71o2rG6PB6FmanfiCPQNgL9v8"></script>
-  </div> 
-<!--</center>-->
-</p>
