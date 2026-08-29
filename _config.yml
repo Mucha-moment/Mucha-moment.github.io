@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 
-title : "Zhenglong Cong"
+title : "Homepage"
 title_separator : "-"
 name : &name "Zhenglong Cong"
 description : &description "Ph.D. Student at MIT | Environmental, Urban, and Development Economics"
