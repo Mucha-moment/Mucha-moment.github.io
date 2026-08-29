@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I am currently an M.A. student in Social Policy at Renmin University of China. I received my bachelor‘s degree from University of Chinese Academy of Social Sciences, and I will begin my Ph.D. studies at MIT’s Department of Urban Studies and Planning (DUSP) in Fall 2026.  
+  Hello! I am a Ph.D. student in the Department of Urban Studies and Planning (DUSP) at MIT. Before joining MIT, I received my master’s degree in Social Policy from Renmin University of China and my bachelor’s degree from the University of Chinese Academy of Social Sciences. 
   <br><br>
   <b>Committee</b>: <a href="https://www.siqizheng.com/">Siqi Zheng</a> (Chair)
   <br><br>
