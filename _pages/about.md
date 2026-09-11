@@ -11,8 +11,7 @@ redirect_from:
 <p style="text-align: justify;">
   Hello! I am a Ph.D. student in the Department of Urban Studies and Planning (DUSP) at MIT. Before joining MIT, I received my master’s degree from Renmin University of China and my bachelor’s degree from the University of Chinese Academy of Social Sciences.
   <br><br>
-
-  <b>Committee</b>: <a href="https://www.siqizheng.com/">Siqi Zheng</a> (Chair)
+  <b>Faculty Advisor</b>: <a href="https://www.siqizheng.com/">Siqi Zheng</a>
   <br><br>
 
   My research lies at the intersection of <b>environmental, urban, and development economics</b>. I am particularly interested in how climate risks, urban infrastructure, and information shape health, behavior, and economic outcomes, with a broader focus on climate adaptation and sustainable urbanization.
