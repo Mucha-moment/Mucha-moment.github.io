@@ -6,13 +6,27 @@ author_profile: true
 ---
 
 {% include base_path %}
-
 <style>
+
+/* ---------- Custom accent colors ---------- */
+
+:root {
+  --research-green: #2F6F57;
+  --research-blue: #35658A;
+  --research-red: #8A5545;
+}
+
+html[data-theme="dark"] {
+  --research-green: #79B89D;
+  --research-blue: #82B6D9;
+  --research-red: #D39A86;
+}
+
 
 /* ---------- Page introduction ---------- */
 
 .research-intro {
-  color: #666;
+  color: var(--global-text-color);
   line-height: 1.6;
   margin-bottom: 1.7rem;
 }
@@ -32,13 +46,25 @@ author_profile: true
   margin-bottom: 0.75rem;
 }
 
+.area-climate {
+  color: var(--research-green);
+}
+
+.area-cities {
+  color: var(--research-blue);
+}
+
+.area-development {
+  color: var(--research-red);
+}
+
 
 /* ---------- Main papers ---------- */
 
 .area-body {
   margin-left: 0.65rem;
   padding-left: 1rem;
-  border-left: 2px solid #eeeeee;
+  border-left: 2px solid var(--global-border-color);
 }
 
 .paper {
@@ -46,35 +72,32 @@ author_profile: true
 }
 
 .paper-title {
-  color: #444;
+  color: var(--global-text-color);
   font-weight: 600;
   line-height: 1.38;
 }
 
-/* Used specifically for subtitles */
 .paper-subtitle {
   margin-top: 0.08rem;
   margin-left: 0.65rem;
-  color: #666;
+  color: var(--global-text-color-light);
   font-size: 0.95em;
   line-height: 1.4;
   font-style: italic;
 }
 
-/* Used for coauthors */
 .paper-meta {
   margin-top: 0.10rem;
   margin-left: 0.65rem;
-  color: #777;
+  color: var(--global-text-color-light);
   font-size: 0.93em;
   line-height: 1.4;
 }
 
-/* Used for presentations / conferences */
 .paper-note {
   margin-top: 0.06rem;
   margin-left: 0.65rem;
-  color: #929292;
+  color: var(--global-text-color-light);
   font-size: 0.86em;
   line-height: 1.4;
 }
@@ -89,21 +112,21 @@ author_profile: true
 
 .wip-details summary {
   cursor: pointer;
-  color: #888;
+  color: var(--global-text-color-light);
   font-size: 0.79em;
   font-weight: 650;
   letter-spacing: 0.055em;
   text-transform: uppercase;
   line-height: 1.4;
-  transition: color 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 
 .wip-details summary:hover {
-  color: #555;
+  opacity: 0.75;
 }
 
 .wip-count {
-  color: #aaa;
+  color: var(--global-text-color-light);
   font-weight: 400;
   letter-spacing: 0;
   text-transform: none;
@@ -113,19 +136,19 @@ author_profile: true
   margin-top: 0.55rem;
   margin-left: 1.05rem;
   padding-left: 0.85rem;
-  border-left: 1px solid #eeeeee;
+  border-left: 1px solid var(--global-border-color);
 }
 
 .wip-item {
   margin-bottom: 0.38rem;
-  color: #555;
+  color: var(--global-text-color);
   line-height: 1.4;
 }
 
 .wip-meta {
   margin-top: 0.04rem;
   margin-left: 0.45rem;
-  color: #8a8a8a;
+  color: var(--global-text-color-light);
   font-size: 0.90em;
   line-height: 1.4;
 }
@@ -135,7 +158,7 @@ author_profile: true
 
 .research-divider {
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid var(--global-border-color);
   margin: 1.65rem 0 1.45rem 0;
 }
 
