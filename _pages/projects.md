@@ -51,6 +51,17 @@ author_profile: true
   line-height: 1.38;
 }
 
+/* Used specifically for subtitles */
+.paper-subtitle {
+  margin-top: 0.08rem;
+  margin-left: 0.65rem;
+  color: #666;
+  font-size: 0.95em;
+  line-height: 1.4;
+  font-style: italic;
+}
+
+/* Used for coauthors */
 .paper-meta {
   margin-top: 0.10rem;
   margin-left: 0.65rem;
@@ -59,6 +70,7 @@ author_profile: true
   line-height: 1.4;
 }
 
+/* Used for presentations / conferences */
 .paper-note {
   margin-top: 0.06rem;
   margin-left: 0.65rem;
@@ -330,8 +342,8 @@ Development & Human Capital
 Who Becomes a Doctor, and Who Trusts One?
 </div>
 
-<div class="paper-meta">
-<em>Adolescent Exposure to Community Health Workers and the Making of the Medical Profession</em>
+<div class="paper-subtitle">
+Adolescent Exposure to Community Health Workers and the Making of the Medical Profession
 </div>
 
 </div>
