@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">
+<p>
   Hello! I am a Ph.D. student in the Department of Urban Studies and Planning (DUSP) at MIT. Before joining MIT, I received my master’s degree from Renmin University of China and my bachelor’s degree from the University of Chinese Academy of Social Sciences.
   <br><br>
 
