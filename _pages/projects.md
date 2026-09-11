@@ -177,7 +177,7 @@ climate and environmental change, cities and infrastructure, and development and
 
 <div class="research-area">
 
-<div class="area-title" style="color:#2F6F57;">
+<div class="area-title area-climate">
 Climate & Environmental Change
 </div>
 
@@ -290,7 +290,7 @@ Wetland
 
 <div class="research-area">
 
-<div class="area-title" style="color:#35658A;">
+<div class="area-title area-cities">
 Cities & Infrastructure
 </div>
 
@@ -350,7 +350,7 @@ Haunted House
 
 <div class="research-area">
 
-<div class="area-title" style="color:#8A5545;">
+<div class="area-title area-development">
 Development & Human Capital
 </div>
 
