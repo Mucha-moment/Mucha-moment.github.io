@@ -23,10 +23,10 @@ repository : "Mucha-moment/Mucha-moment.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "&emsp;Zhenglong Cong"
+  name             : "Zhenglong Cong"
   avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "&emsp;Ph.D. Student"
+  bio              : "Ph.D. Student"
   location         : "Cambridge, MA"
   employer         : "MIT"
   uri              : #"https://www.manchester.ac.uk/"
