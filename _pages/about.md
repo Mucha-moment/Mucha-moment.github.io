@@ -21,7 +21,7 @@ redirect_from:
   <br>
   <b>Climate & Environmental Change</b>: Climate adaptation, pollution, environmental health, and sustainable development.
   <br>
-  <b>Cities & Infrastructure</b>: Sustainable urbanization, transportation, commuting, and housing.
+  <b>Cities & Infrastructure</b>: Sustainable urbanization, transportation, commuting, housing, and urban health infrastructure.
   <br>
   <b>Development & Human Capital</b>: Health, education, economic history, and human capital.
   <br><br>
@@ -55,7 +55,7 @@ redirect_from:
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>The Role of Weather Forecasts in Climate Adaptation and Reducing Medical Costs in China</b></font></p>
+    <p class="pub-p"><font size=3><b>Information Intervention and Climate Adaptation</b></font></p>
     <p class="pub-p"><font size=3>Improving forecast accuracy significantly reduces morbidity and medical spending, with mispredictions—especially under extreme weather—driving sizable increases and highlighting information as a cost-effective adaptation.</font></p>
   </div>
   </td></tr>
@@ -65,7 +65,7 @@ redirect_from:
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>Heating For Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure</b></font></p>
+    <p class="pub-p"><font size=3><b>Heating for Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure</b></font></p>
     <p class="pub-p"><font size=3>Winter district heating cuts medical expenses and visits via cold adaptation, but pollution offsets about two-thirds of the gains and disproportionately harms rural and non-CDHS-covered residents.</font></p>
   </div>
   </td></tr>
