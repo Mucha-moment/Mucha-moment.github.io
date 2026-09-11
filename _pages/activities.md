@@ -98,8 +98,6 @@ redirect_from:
 </style>
 
 
-## Activities & Honors
-
 
 <!-- ================================================== -->
 <!-- Research Experience                                -->
