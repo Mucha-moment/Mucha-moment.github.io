@@ -8,24 +8,31 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I am a Ph.D. student in the Department of Urban Studies and Planning (DUSP) at MIT. Before joining MIT, I received my master’s degree from Renmin University of China and my bachelor’s degree from the University of Chinese Academy of Social Sciences. 
+  Hello! I am a Ph.D. student in the Department of Urban Studies and Planning (DUSP) at MIT. Before joining MIT, I received my master’s degree from Renmin University of China and my bachelor’s degree from the University of Chinese Academy of Social Sciences.
   <br><br>
+
   <b>Committee</b>: <a href="https://www.siqizheng.com/">Siqi Zheng</a> (Chair)
   <br><br>
-  My research belongs to Environmental Economics and Development Economics.  
-  <br>
-  <b>Environmental Economics</b>:  Climate adaptation, Pollution, Sustainable development, Health.  
-  <br>
-  <b>Urban Economics</b>: Sustainable urbanization, Subway, Commuting, Housing prices.
-  <br>
-  <b>Development economics</b>: Health, Education, Economic history, Human capital.  
+
+  My research lies at the intersection of <b>environmental, urban, and development economics</b>. I am particularly interested in how climate risks, urban infrastructure, and information shape health, behavior, and economic outcomes, with a broader focus on climate adaptation and sustainable urbanization.
   <br><br>
-  Methodologically, I primarily use large-scale and unique datasets for causal inference, complemented by randomized controlled trials and structural modeling. I am also interested in applying machine learning and artificial intelligence to economic research.
-  <br><br>
-  Learn more from my <a href="https://Mucha-moment.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: 
+
+  My current research interests include:
   <br>
-  <a href="mailto:zlcong@mit.edu">zlcong@mit.edu</a>
-</p>  
+  <b>Climate & Environmental Change</b>: Climate adaptation, pollution, environmental health, and sustainable development.
+  <br>
+  <b>Cities & Infrastructure</b>: Sustainable urbanization, transportation, commuting, and housing.
+  <br>
+  <b>Development & Human Capital</b>: Health, education, economic history, and human capital.
+  <br><br>
+
+  Methodologically, I primarily use large-scale and unique datasets and causal inference methods, complemented by randomized controlled trials and structural modeling. I am also interested in applying machine learning and artificial intelligence to questions in urban, environmental, and development economics.
+  <br><br>
+
+  You can find more information in my <a href="https://www.zhenglongcong.com/files/CV.pdf">CV</a>. I am always happy to discuss research ideas and potential collaborations. Please feel free to contact me at
+  <a href="mailto:zlcong@mit.edu">zlcong@mit.edu</a>.
+</p>
+
 
 🌟 Recent Research Highlights
 ------
