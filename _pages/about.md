@@ -34,7 +34,7 @@ redirect_from:
 </p>
 
 
-🌟 Recent Research Highlights
+## Selected Research
 ------
 
 <div>
