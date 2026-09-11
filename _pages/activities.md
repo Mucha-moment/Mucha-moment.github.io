@@ -11,6 +11,19 @@ redirect_from:
 
 <style>
 
+/* ---------- Accent colors ---------- */
+
+:root {
+  --activity-blue: #35658A;
+  --activity-red: #8A5545;
+}
+
+html[data-theme="dark"] {
+  --activity-blue: #82B6D9;
+  --activity-red: #D39A86;
+}
+
+
 /* ---------- Section ---------- */
 
 .activity-section {
@@ -24,30 +37,38 @@ redirect_from:
   margin-bottom: 0.8rem;
 }
 
+.activity-title-research {
+  color: var(--activity-blue);
+}
+
+.activity-title-honors {
+  color: var(--activity-red);
+}
+
 .activity-body {
   margin-left: 0.65rem;
   padding-left: 1rem;
-  border-left: 2px solid #eeeeee;
+  border-left: 2px solid var(--global-border-color);
 }
 
 
 /* ---------- Research experience ---------- */
 
 .experience-title {
-  color: #444;
+  color: var(--global-text-color);
   font-weight: 600;
   line-height: 1.4;
 }
 
 .experience-meta {
   margin-top: 0.1rem;
-  color: #777;
+  color: var(--global-text-color-light);
   font-size: 0.93em;
 }
 
 .experience-desc {
   margin-top: 0.55rem;
-  color: #555;
+  color: var(--global-text-color);
   line-height: 1.55;
 }
 
@@ -67,17 +88,17 @@ redirect_from:
 }
 
 .award-year {
-  color: #999;
+  color: var(--global-text-color-light);
   font-size: 0.91em;
   white-space: nowrap;
 }
 
 .award-name {
-  color: #4f4f4f;
+  color: var(--global-text-color);
 }
 
 .award-detail {
-  color: #888;
+  color: var(--global-text-color-light);
   font-size: 0.91em;
 }
 
@@ -105,7 +126,7 @@ redirect_from:
 
 <div class="activity-section">
 
-<div class="activity-title" style="color:#35658A;">
+<div class="activity-title activity-title-research">
 Research Experience
 </div>
 
@@ -135,7 +156,7 @@ by Ruixue Jia and David Strömberg, and provided research assistance on addition
 
 <div class="activity-section">
 
-<div class="activity-title" style="color:#8A5545;">
+<div class="activity-title activity-title-honors">
 Honors & Awards
 </div>
 
