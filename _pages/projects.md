@@ -142,8 +142,6 @@ author_profile: true
 </style>
 
 
-## Working Papers & Research Projects
-
 <p class="research-intro">
 My current research is organized around three interconnected areas:
 climate and environmental change, cities and infrastructure, and development and human capital.
