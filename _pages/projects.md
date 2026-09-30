@@ -210,7 +210,7 @@ development and human capital, and health economics and healthcare systems.
     <details class="wip-details">
       <summary>
         Selected Work in Progress
-        <span class="wip-count">(5)</span>
+        <span class="wip-count">(4)</span>
       </summary>
 
       <div class="wip-list">
@@ -231,10 +231,6 @@ development and human capital, and health economics and healthcare systems.
 
         <div class="wip-item">
           The Last Mile of Early Warning: Information Delivery and Response
-        </div>
-
-        <div class="wip-item">
-          Noise Exposure and Health
         </div>
       </div>
     </details>
@@ -271,12 +267,20 @@ development and human capital, and health economics and healthcare systems.
     <details class="wip-details">
       <summary>
         Selected Work in Progress
-        <span class="wip-count">(1)</span>
+        <span class="wip-count">(3)</span>
       </summary>
 
       <div class="wip-list">
         <div class="wip-item">
           Haunted House
+        </div>
+
+        <div class="wip-item">
+          Epidemic Prevention Stations, Fertility, and Survival in China
+        </div>
+
+        <div class="wip-item">
+          Noise Exposure and Health
         </div>
       </div>
     </details>
@@ -349,7 +353,7 @@ development and human capital, and health economics and healthcare systems.
     <details class="wip-details">
       <summary>
         Selected Work in Progress
-        <span class="wip-count">(6)</span>
+        <span class="wip-count">(5)</span>
       </summary>
 
       <div class="wip-list">
@@ -371,10 +375,6 @@ development and human capital, and health economics and healthcare systems.
 
         <div class="wip-item">
           The Vegetable Basket Program and Rural Human Capital
-        </div>
-
-        <div class="wip-item">
-          Epidemic Prevention Stations, Fertility, and Survival in China
         </div>
       </div>
     </details>
