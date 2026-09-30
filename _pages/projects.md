@@ -6,31 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 <style>
-
-/* ---------- Custom accent colors ---------- */
-
-:root {
-  --research-green: #2F6F57;
-  --research-blue: #35658A;
-  --research-red: #8A5545;
-}
-
-html[data-theme="dark"] {
-  --research-green: #79B89D;
-  --research-blue: #82B6D9;
-  --research-red: #D39A86;
-}
-
-
 /* ---------- Page introduction ---------- */
 
 .research-intro {
-  color: var(--global-text-color);
+  color: #666;
   line-height: 1.6;
   margin-bottom: 1.7rem;
 }
-
 
 /* ---------- Research areas ---------- */
 
@@ -46,25 +30,12 @@ html[data-theme="dark"] {
   margin-bottom: 0.75rem;
 }
 
-.area-climate {
-  color: var(--research-green);
-}
-
-.area-cities {
-  color: var(--research-blue);
-}
-
-.area-development {
-  color: var(--research-red);
-}
-
-
 /* ---------- Main papers ---------- */
 
 .area-body {
   margin-left: 0.65rem;
   padding-left: 1rem;
-  border-left: 2px solid var(--global-border-color);
+  border-left: 2px solid #eeeeee;
 }
 
 .paper {
@@ -72,7 +43,7 @@ html[data-theme="dark"] {
 }
 
 .paper-title {
-  color: var(--global-text-color);
+  color: #444;
   font-weight: 600;
   line-height: 1.38;
 }
@@ -80,7 +51,7 @@ html[data-theme="dark"] {
 .paper-subtitle {
   margin-top: 0.08rem;
   margin-left: 0.65rem;
-  color: var(--global-text-color-light);
+  color: #666;
   font-size: 0.95em;
   line-height: 1.4;
   font-style: italic;
@@ -89,7 +60,7 @@ html[data-theme="dark"] {
 .paper-meta {
   margin-top: 0.10rem;
   margin-left: 0.65rem;
-  color: var(--global-text-color-light);
+  color: #777;
   font-size: 0.93em;
   line-height: 1.4;
 }
@@ -97,11 +68,24 @@ html[data-theme="dark"] {
 .paper-note {
   margin-top: 0.06rem;
   margin-left: 0.65rem;
-  color: var(--global-text-color-light);
+  color: #929292;
   font-size: 0.86em;
   line-height: 1.4;
 }
 
+/* ---------- Health research subgroups ---------- */
+
+.research-subgroup + .research-subgroup {
+  margin-top: 1.4rem;
+}
+
+.subgroup-title {
+  color: #70558A;
+  font-size: 0.90em;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.75rem;
+}
 
 /* ---------- Work in progress ---------- */
 
@@ -112,21 +96,21 @@ html[data-theme="dark"] {
 
 .wip-details summary {
   cursor: pointer;
-  color: var(--global-text-color-light);
+  color: #888;
   font-size: 0.79em;
   font-weight: 650;
   letter-spacing: 0.055em;
   text-transform: uppercase;
   line-height: 1.4;
-  transition: opacity 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 .wip-details summary:hover {
-  opacity: 0.75;
+  color: #555;
 }
 
 .wip-count {
-  color: var(--global-text-color-light);
+  color: #aaa;
   font-weight: 400;
   letter-spacing: 0;
   text-transform: none;
@@ -136,287 +120,375 @@ html[data-theme="dark"] {
   margin-top: 0.55rem;
   margin-left: 1.05rem;
   padding-left: 0.85rem;
-  border-left: 1px solid var(--global-border-color);
+  border-left: 1px solid #eeeeee;
 }
 
 .wip-item {
   margin-bottom: 0.38rem;
-  color: var(--global-text-color);
+  color: #555;
   line-height: 1.4;
 }
 
 .wip-meta {
   margin-top: 0.04rem;
   margin-left: 0.45rem;
-  color: var(--global-text-color-light);
+  color: #8a8a8a;
   font-size: 0.90em;
   line-height: 1.4;
 }
-
 
 /* ---------- Divider ---------- */
 
 .research-divider {
   border: 0;
-  border-top: 1px solid var(--global-border-color);
+  border-top: 1px solid #eeeeee;
   margin: 1.65rem 0 1.45rem 0;
 }
-
 </style>
 
-
 <p class="research-intro">
-My current research is organized around three interconnected areas:
-climate and environmental change, cities and infrastructure, and development and human capital.
+My current research is organized around four interconnected areas:
+climate and environmental change, cities and infrastructure,
+development and human capital, and health economics and healthcare systems.
 </p>
-
 
 <!-- ================================================== -->
 <!-- Climate & Environmental Change                     -->
 <!-- ================================================== -->
 
 <div class="research-area">
+  <div class="area-title" style="color:#2F6F57;">
+    Climate &amp; Environmental Change
+  </div>
 
-<div class="area-title area-climate">
-Climate & Environmental Change
+  <div class="area-body">
+    <div class="paper">
+      <div class="paper-title">
+        Information Intervention and Climate Adaptation: The Role of Weather Forecasts in Reducing Medical Costs in China
+      </div>
+      <div class="paper-meta">
+        <em>with Qingfeng Liu and Chenxu Ni</em>
+      </div>
+      <div class="paper-note">
+        Presented at the 1039th Workshop on Ecology, Environment and Climate Change Economics, Peking University School of Economics.
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Heating for Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure
+      </div>
+      <div class="paper-meta">
+        <em>with Qingfeng Liu, Chenxu Ni, Tao Tao, and Siqi Zheng</em>
+      </div>
+      <div class="paper-note">
+        Presented at the 50th Camphor Economics Beijing Seminar.
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        When Typhoon Comes: Short-Term Industrial Production Responses Revealed by High-Frequency Electricity Consumption Data
+      </div>
+      <div class="paper-meta">
+        <em>with Chen Xi and Yu Zhang</em>
+      </div>
+      <div class="paper-note">
+        Presented at the 10th CCER Summer Institute and the 4th Summer Meeting in Urban Economics, China.
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Beneath the Greenhouse Dome: Extreme Heat and Health Costs in China
+      </div>
+      <div class="paper-meta">
+        <em>with Jin Hu, Chen You, Heer Wang, Chenxu Ni, and Kaiya Wu</em>
+      </div>
+    </div>
+
+    <details class="wip-details">
+      <summary>
+        Selected Work in Progress
+        <span class="wip-count">(5)</span>
+      </summary>
+
+      <div class="wip-list">
+        <div class="wip-item">
+          Heatwaves
+          <div class="wip-meta">
+            <em>with Yazhen Gong, Qingfeng Liu, and Chenxu Ni</em>
+          </div>
+        </div>
+
+        <div class="wip-item">
+          Wind Power Generation
+        </div>
+
+        <div class="wip-item">
+          Wetland
+        </div>
+
+        <div class="wip-item">
+          The Last Mile of Early Warning: Information Delivery and Response
+        </div>
+
+        <div class="wip-item">
+          Noise Exposure and Health
+        </div>
+      </div>
+    </details>
+  </div>
 </div>
-
-<div class="area-body">
-
-
-<div class="paper">
-
-<div class="paper-title">
-Information Intervention and Climate Adaptation: The Role of Weather Forecasts in Reducing Medical Costs in China
-</div>
-
-<div class="paper-meta">
-<em>with Qingfeng Liu and Chenxu Ni</em>
-</div>
-
-<div class="paper-note">
-Presented at the 1039th Workshop on Ecology, Environment and Climate Change Economics, Peking University School of Economics.
-</div>
-
-</div>
-
-
-<div class="paper">
-
-<div class="paper-title">
-Heating for Health: Cold Adaptation, Pollution Trade-Offs, and Distributional Impacts of Winter Heating on Medical Expenditure
-</div>
-
-<div class="paper-meta">
-<em>with Qingfeng Liu, Chenxu Ni, Tao Tao, and Siqi Zheng</em>
-</div>
-
-<div class="paper-note">
-Presented at the 50th Camphor Economics Beijing Seminar.
-</div>
-
-</div>
-
-
-<div class="paper">
-
-<div class="paper-title">
-When Typhoon Comes: Short-Term Industrial Production Responses Revealed by High-Frequency Electricity Consumption Data
-</div>
-
-<div class="paper-meta">
-<em>with Chen Xi and Yu Zhang</em>
-</div>
-
-<div class="paper-note">
-Presented at the 10th CCER Summer Institute and the 4th Summer Meeting in Urban Economics, China.
-</div>
-
-</div>
-
-
-<div class="paper">
-
-<div class="paper-title">
-Beneath the Greenhouse Dome: Extreme Heat and Health Costs in China
-</div>
-
-<div class="paper-meta">
-<em>with Jin Hu, Chen You, Heer Wang, Chenxu Ni, and Kaiya Wu</em>
-</div>
-
-</div>
-
-
-<details class="wip-details">
-
-<summary>
-Selected Work in Progress
-<span class="wip-count">(3)</span>
-</summary>
-
-<div class="wip-list">
-
-<div class="wip-item">
-Heatwaves
-<div class="wip-meta">
-<em>with Yazhen Gong, Qingfeng Liu, and Chenxu Ni</em>
-</div>
-</div>
-
-<div class="wip-item">
-Wind Power Generation
-</div>
-
-<div class="wip-item">
-Wetland
-</div>
-
-</div>
-
-</details>
-
-
-</div>
-</div>
-
 
 <hr class="research-divider">
-
 
 <!-- ================================================== -->
 <!-- Cities & Infrastructure                            -->
 <!-- ================================================== -->
 
 <div class="research-area">
+  <div class="area-title" style="color:#35658A;">
+    Cities &amp; Infrastructure
+  </div>
 
-<div class="area-title area-cities">
-Cities & Infrastructure
+  <div class="area-body">
+    <div class="paper">
+      <div class="paper-title">
+        Miles to Illness: The Effects of Job-Housing Distance and Commuting-Related Pollution on Health
+      </div>
+      <div class="paper-meta">
+        <em>with Xin Lin, Chenxu Ni, Zhuoran Zhang, and Siqi Zheng</em>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Rain Today, Strain Tomorrow: Extreme Rainfall, Deferred Care, and Hospital Capacity
+      </div>
+    </div>
+
+    <details class="wip-details">
+      <summary>
+        Selected Work in Progress
+        <span class="wip-count">(1)</span>
+      </summary>
+
+      <div class="wip-list">
+        <div class="wip-item">
+          Haunted House
+        </div>
+      </div>
+    </details>
+  </div>
 </div>
-
-<div class="area-body">
-
-
-<div class="paper">
-
-<div class="paper-title">
-Miles to Illness: The Effects of Job-Housing Distance and Commuting-Related Pollution on Health
-</div>
-
-<div class="paper-meta">
-<em>with Xin Lin, Chenxu Ni, Zhuoran Zhang, and Siqi Zheng</em>
-</div>
-
-</div>
-
-
-<div class="paper">
-
-<div class="paper-title">
-Rain Today, Strain Tomorrow: Extreme Rainfall, Deferred Care, and Hospital Capacity
-</div>
-
-</div>
-
-
-<details class="wip-details">
-
-<summary>
-Selected Work in Progress
-<span class="wip-count">(1)</span>
-</summary>
-
-<div class="wip-list">
-
-<div class="wip-item">
-Haunted House
-</div>
-
-</div>
-
-</details>
-
-
-</div>
-</div>
-
 
 <hr class="research-divider">
-
 
 <!-- ================================================== -->
 <!-- Development & Human Capital                        -->
 <!-- ================================================== -->
 
 <div class="research-area">
+  <div class="area-title" style="color:#8A5545;">
+    Development &amp; Human Capital
+  </div>
 
-<div class="area-title area-development">
-Development & Human Capital
+  <div class="area-body">
+    <div class="paper">
+      <div class="paper-title">
+        Who Becomes a Doctor, and Who Trusts One?
+      </div>
+      <div class="paper-subtitle">
+        Adolescent Exposure to Community Health Workers and the Making of the Medical Profession
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        The Legacy of Barefoot Doctors: Long-Run Effects on Salt Reduction Behavior
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        High-Stakes Admissions and the Formation of Values: Evidence from College Entrance Exam Bonus Reform
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        The Changing Nature of Income Risk: Persistence, Insurance, and Poverty in Rural China, 1986–2015
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Falling off the Ladder: High-Stakes Selection, Skills, and Adolescent Mental Health in China
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Extracurricular Sports and the Onset of Myopia: Longitudinal Evidence from China
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Hidden Tracking and the Fadeout of Classroom Effects: Seven Years of Evidence from Chinese Middle Schools
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-title">
+        Separate Ladders: Curricular Tracking and Gender Gaps at the Top of China’s University Hierarchy
+      </div>
+    </div>
+
+    <details class="wip-details">
+      <summary>
+        Selected Work in Progress
+        <span class="wip-count">(6)</span>
+      </summary>
+
+      <div class="wip-list">
+        <div class="wip-item">
+          Ramadan
+        </div>
+
+        <div class="wip-item">
+          Medical Dispute
+        </div>
+
+        <div class="wip-item">
+          Chinese Lunar Calendar Almanac
+        </div>
+
+        <div class="wip-item">
+          Quantitative History
+        </div>
+
+        <div class="wip-item">
+          The Vegetable Basket Program and Rural Human Capital
+        </div>
+
+        <div class="wip-item">
+          Epidemic Prevention Stations, Fertility, and Survival in China
+        </div>
+      </div>
+    </details>
+  </div>
 </div>
 
-<div class="area-body">
+<hr class="research-divider">
 
+<!-- ================================================== -->
+<!-- Health Economics & Healthcare Systems              -->
+<!-- ================================================== -->
 
-<div class="paper">
+<div class="research-area">
+  <div class="area-title" style="color:#70558A;">
+    Health Economics &amp; Healthcare Systems
+  </div>
 
-<div class="paper-title">
-Who Becomes a Doctor, and Who Trusts One?
-</div>
+  <div class="area-body">
+    <div class="research-subgroup">
+      <div class="subgroup-title">
+        Health Insurance &amp; Financial Protection
+      </div>
 
-<div class="paper-subtitle">
-Adolescent Exposure to Community Health Workers and the Making of the Medical Profession
-</div>
+      <!-- These two subsidy papers are provisionally listed separately. -->
+      <div class="paper">
+        <div class="paper-title">
+          After the Subsidies End: Hospital Care and Financial Risk Following China’s Health Poverty Alleviation Program
+        </div>
+      </div>
 
-</div>
+      <div class="paper">
+        <div class="paper-title">
+          After the Subsidies End: Cost Sharing, Inpatient Care, and Welfare among China’s Formerly Poor
+        </div>
+      </div>
 
+      <div class="paper">
+        <div class="paper-title">
+          Financial Protection and Inpatient Treatment Pathways for Lumbar Disc Disease
+        </div>
+      </div>
+    </div>
 
-<div class="paper">
+    <div class="research-subgroup">
+      <div class="subgroup-title">
+        Provider Incentives &amp; Healthcare Delivery
+      </div>
 
-<div class="paper-title">
-The Legacy of Barefoot Doctors: Long-Run Effects on Salt Reduction Behavior
-</div>
+      <div class="paper">
+        <div class="paper-title">
+          Coding and Convergence under Point-Based Hospital Budgets: Evidence from China’s DIP Payment System
+        </div>
+      </div>
 
-</div>
+      <div class="paper">
+        <div class="paper-title">
+          Procurement Reform and the Distribution of Surgical Costs
+        </div>
+      </div>
 
+      <div class="paper">
+        <div class="paper-title">
+          Raising the Admission Threshold? Regulatory Oversight under DRG-Based Payment
+        </div>
+      </div>
 
-<div class="paper">
+      <div class="paper">
+        <div class="paper-title">
+          Diffusion without a Learning Curve? Endoscopic Spine Surgery and Spillovers to Nearby Hospitals
+        </div>
+      </div>
 
-<div class="paper-title">
-High-Stakes Admissions and the Formation of Values: Evidence from College Entrance Exam Bonus Reform
-</div>
+      <div class="paper">
+        <div class="paper-title">
+          Time Off to Heal: The Time Costs of Medical Care
+        </div>
+      </div>
 
-</div>
+      <div class="paper">
+        <div class="paper-title">
+          Hospital Spending and Patient Payments during the Rollout of Spine Implant Procurement in China
+        </div>
+      </div>
 
+      <div class="paper">
+        <div class="paper-title">
+          Trimming the Tail: Marginal Cost Sharing and Hospital Responses to DRG Payment
+        </div>
+      </div>
 
-<details class="wip-details">
+      <div class="paper">
+        <div class="paper-title">
+          Behind the Price: Physician Practice Patterns under Prospective Payment
+        </div>
+      </div>
 
-<summary>
-Selected Work in Progress
-<span class="wip-count">(4)</span>
-</summary>
+      <div class="paper">
+        <div class="paper-title">
+          One Standard of Care: Payment Incentives at the Physician and Patient Levels
+        </div>
+      </div>
+    </div>
 
-<div class="wip-list">
+    <details class="wip-details">
+      <summary>
+        Selected Work in Progress
+        <span class="wip-count">(1)</span>
+      </summary>
 
-<div class="wip-item">
-Ramadan
-</div>
-
-<div class="wip-item">
-Medical Dispute
-</div>
-
-<div class="wip-item">
-Chinese Lunar Calendar Almanac
-</div>
-
-<div class="wip-item">
-Quantitative History
-</div>
-
-</div>
-
-</details>
-
-
-</div>
+      <div class="wip-list">
+        <div class="wip-item">
+          Long-Term Care Insurance
+        </div>
+      </div>
+    </details>
+  </div>
 </div>
