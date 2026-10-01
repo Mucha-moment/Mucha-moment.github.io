@@ -407,12 +407,6 @@ development and human capital, and health economics and healthcare systems.
 
       <div class="paper">
         <div class="paper-title">
-          After the Subsidies End: Cost Sharing, Inpatient Care, and Welfare among China’s Formerly Poor
-        </div>
-      </div>
-
-      <div class="paper">
-        <div class="paper-title">
           Financial Protection and Inpatient Treatment Pathways for Lumbar Disc Disease
         </div>
       </div>
@@ -450,12 +444,6 @@ development and human capital, and health economics and healthcare systems.
       <div class="paper">
         <div class="paper-title">
           Time Off to Heal: The Time Costs of Medical Care
-        </div>
-      </div>
-
-      <div class="paper">
-        <div class="paper-title">
-          Hospital Spending and Patient Payments during the Rollout of Spine Implant Procurement in China
         </div>
       </div>
 
